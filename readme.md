@@ -14,6 +14,10 @@ This is the UBCO Visual Design Club's 3d Asset Library. Feel free to look around
 
 ### Access
 
+Follow this link to dive into the library!
+
+[VDC Asset Library](https://drive.google.com/drive/folders/1CVm3VxPlxeokrd2tcaQtigDPNhVr45e-?usp=sharing)
+
 Just simply navigate through the repository to the folder of your choice, and then hit 'download'!
 Make sure to download all files associated with a particular blend file. It will contain textures that can be 
 re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor.
