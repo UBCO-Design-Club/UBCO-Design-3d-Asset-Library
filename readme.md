@@ -15,6 +15,10 @@ This is the UBCO Visual Design Club's 3d Asset Library. Feel free to look around
 ### Installing
 
 * Just simply navigate through the repository to the folder of your choice, and then hit 'download'!
+Make sure to download all files associated with a particular blend file. It will contain textures that can be 
+re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor.
+
+[!nav](.\nav.png)
 
 ## Help
 
