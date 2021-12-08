@@ -27,14 +27,12 @@ Nathan Potter
 
 ## Version History
 
-* 0.2
-    * Fixes
 * 0.1
-    * Initial Release
+    * Initial Release - Simple Library
 
 ## License
 
-This project is licensed under the GNU General Public License - see the LICENSE.md file for details
+This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details
 
 ## More Resources!!
 
