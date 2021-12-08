@@ -8,17 +8,22 @@ This is the UBCO Visual Design Club's 3d Asset Library. Feel free to look around
 
 ## Getting Started
 
-### Dependencies
+### Installing
 
 * [Blender](https://www.blender.org/download/)
 
-### Installing
+### Access
 
-* Just simply navigate through the repository to the folder of your choice, and then hit 'download'!
+Just simply navigate through the repository to the folder of your choice, and then hit 'download'!
 Make sure to download all files associated with a particular blend file. It will contain textures that can be 
 re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor.
 
 ![nav](./nav.PNG)
+
+Same goes for text! there is a 'Text Tester' blend file that you can use to test your fonts in 3d. Navigate to the 'a'
+symbol in the properties pane and under fonts you can find your sizes and styling. Use extrude under geometry to give it some depth!
+
+![text](./text.PNG)
 
 ## Help
 
@@ -32,7 +37,7 @@ Nathan Potter
 ## Version History
 
 * 0.1
-    * Initial Release - Simple Library
+    * Initial Release - Simple Library; Models, Scenes and Textures
 
 ## License
 
