@@ -1,6 +1,6 @@
 ## UBCO Visual Design Club - 3d Asset Library
 
-##=:=:=:=:=:=:=
+=================================================================
 
 ## Description
 
