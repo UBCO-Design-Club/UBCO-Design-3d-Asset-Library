@@ -34,9 +34,16 @@ Nathan Potter
 
 ## License
 
-This project is licensed under the GNU License - see the LICENSE.md file for details
+This project is licensed under the GNU General Public License - see the LICENSE.md file for details
 
-## Acknowledgments
+## More Resources!!
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Amazing free tutorials and sometimes scene files
+* [Poly Haven](https://polyhaven.com/) - Free textures and Models!
+* [Turbo Squid](https://turbosquid.com/) - Free textures and Models!
+* [CG Trader](https://cgtrader.com/) - Free textures and Models!
+* [Sketch Fab](https://sketchfab.com/) - Free textures and Models!
+* [Free3D](https://free3d.com/) - Free textures and Models!
+* [ArtStation](https://www.artstation.com/marketplace/game-dev/resources/3d-models) - Some free Textures and Models ($$)
+* [Kitbash 3D](https://kitbash3d.com/) - High Quality Models and Textures ($$$)
