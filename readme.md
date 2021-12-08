@@ -1,6 +1,5 @@
-# Project Title
+## UBCO Visual Design Club - 3d Asset Library
 
-UBCO Visual Design Club's 3d Asset Library
 
 ## Description
 
