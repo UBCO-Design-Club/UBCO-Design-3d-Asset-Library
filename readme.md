@@ -20,7 +20,8 @@ Follow this link to dive into the library!
 
 Just simply navigate through the repository to the folder of your choice, and then hit 'download'!
 Make sure to download all files associated with a particular blend file. It will contain textures that can be 
-re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor.
+re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor. 
+Then, you can just navigate to the place where you want to get the image from!
 
 ![nav](./nav.PNG)
 
