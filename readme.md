@@ -10,28 +10,15 @@ This is the UBCO Visual Design Club's 3d Asset Library. Feel free to look around
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* [Blender](https://www.blender.org/download/)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Just simply navigate through the repository to the folder of your choice, and then hit 'download'!
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Edit this ReadMe to say what tips I should include here.
 
 ## Authors
 
@@ -47,7 +34,7 @@ Nathan Potter
 
 ## License
 
-This project is licensed under the  License - see the LICENSE.md file for details
+This project is licensed under the GNU License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
