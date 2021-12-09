@@ -1,10 +1,11 @@
-## UBCO Visual Design Club - 3d Asset Library
 
-=================================================================
+# UBCO Visual Design Club - 3d Asset Library
+
+
 
 ## Description
 
-This is the UBCO Visual Design Club's 3d Asset Library. Feel free to look around and download what you like!
+Welcome to the UBCO Visual Design Club's 3d Asset Library. Feel free to look around and download what you like! All materials are listed by type within the Google Drive link - Scenes, Textures, and Models. Jump right into a scene and start playing around, or start a fresh Blender file and import models, append materials from another blend file, or just grab certain images for image textures!
 
 ## Getting Started
 
@@ -30,9 +31,19 @@ symbol in the properties pane and under fonts you can find your sizes and stylin
 
 ![text](./text.PNG)
 
+Appending materials is very easy. It is basically just a copy of a material from one Blend file to another. Make sure you download the blend file you want to take a material from, and from within your new file select File > Append. Make sure you are not in edit mode, as it will be greyed out. In the file explorer, double click on your blend file that you want to take from. Find the folder called materials, and choose the one you want!
+
+[Appending Materials](https://www.youtube.com/watch?v=6Ffnoyg6oc8)
+
+Importing models is also a rudimentary task, but you first have to change some preferences to allow you to import certain file types. Select Edit > Preferences (Edit is next to File (top left)). Choose Add-ons from the left menu, and search 'import-export'. Make sure the boxes are checked, then you can import the models you want!
+
+![import2](./import2.PNG)
+
+![import](./import.PNG)
+
 ## Help
 
-Edit this ReadMe to say what tips I should include here.
+Find 'n8er' on the VDC Discord and message me!
 
 ## Authors
 
