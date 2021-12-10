@@ -1,5 +1,5 @@
 
-# UBCO Visual Design Club - 3d Asset Library
+# UBCO Design Club - 3d Asset Library
 
 
 
