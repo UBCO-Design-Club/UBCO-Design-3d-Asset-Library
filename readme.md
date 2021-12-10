@@ -7,19 +7,21 @@
 
 Welcome to the UBCO Visual Design Club's 3d Asset Library. Feel free to look around and download what you like! All materials are listed by type within the Google Drive link - Scenes, Textures, and Models. Jump right into a scene and start playing around, or start a fresh Blender file and import models, append materials from another blend file, or just grab certain images for image textures!
 
-## Getting Started
-
-### Installing
+## Installing
 
 * [Blender](https://www.blender.org/download/)
 
-### Access
+## Access
 
 Follow this link to dive into the library!
 
 [VDC Asset Library](https://drive.google.com/drive/folders/1CVm3VxPlxeokrd2tcaQtigDPNhVr45e-?usp=sharing)
 
-Just simply navigate through the repository to the folder of your choice, and then hit 'download'!
+Just simply navigate through the G-Drive folders, choose a file and then hit 'download'! Not sure where you want to start?
+Download the texttester.blend and imagetesterandmirrorbox.blend files from the Scenes folder and keep reading.
+
+## Getting Started
+
 Make sure to download all files associated with a particular blend file. It will contain textures that can be 
 re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor. 
 Then, you can just navigate to the place where you want to get the image from!
