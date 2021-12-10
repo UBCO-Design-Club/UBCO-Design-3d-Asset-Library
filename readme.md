@@ -24,12 +24,12 @@ Make sure to download all files associated with a particular blend file. It will
 re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor. 
 Then, you can just navigate to the place where you want to get the image from!
 
-![nav](./nav.PNG)
+![nav](./images/nav.PNG)
 
 Same goes for text! there is a 'Text Tester' blend file that you can use to test your fonts in 3d. Navigate to the 'a'
 symbol in the properties pane and under fonts you can find your sizes and styling. Use extrude under geometry to give it some depth!
 
-![text](./text.PNG)
+![text](./images/text.PNG)
 
 Appending materials is very easy. It is basically just a copy of a material from one Blend file to another. Make sure you download the blend file you want to take a material from, and from within your new file select File > Append. Make sure you are not in edit mode, as it will be greyed out. In the file explorer, double click on your blend file that you want to take from. Find the folder called materials, and choose the one you want!
 
@@ -37,9 +37,9 @@ Appending materials is very easy. It is basically just a copy of a material from
 
 Importing models is also a rudimentary task, but you first have to change some preferences to allow you to import certain file types. Select Edit > Preferences (Edit is next to File (top left)). Choose Add-ons from the left menu, and search 'import-export'. Make sure the boxes are checked, then you can import the models you want!
 
-![import2](./import2.PNG)
+![import2](./images/import2.PNG)
 
-![import](./import.PNG)
+![import](./images/import.PNG)
 
 ## Help
 
