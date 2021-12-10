@@ -41,6 +41,20 @@ Importing models is also a rudimentary task, but you first have to change some p
 
 ![import](./images/import.png)
 
+## Important Resources
+
+Here are some amazing resources to get started in 3d! Make sure to check out Poly Haven. They have many detailed
+models and 4k textures. Some sites may require sign-up to download files.
+
+* [Poly Haven](https://polyhaven.com/) - Best Quality free textures and models!
+* [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Amazing free tutorials and sometimes scene files
+* [Turbo Squid](https://turbosquid.com/) - Free textures and Models!
+* [CG Trader](https://cgtrader.com/) - Free textures and Models!
+* [Sketch Fab](https://sketchfab.com/) - Free textures and Models!
+* [Free3D](https://free3d.com/) - Free textures and Models!
+* [ArtStation](https://www.artstation.com/marketplace/game-dev/resources/3d-models) - Some free Textures and Models ($$)
+* [Kitbash 3D](https://kitbash3d.com/) - High Quality Models and Textures ($$$)
+
 ## Help
 
 Find 'n8er' on the VDC Discord and message me!
@@ -59,14 +73,3 @@ Nathan Potter
 
 This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details
 
-## More Resources!!
-
-Inspiration, code snippets, etc.
-* [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Amazing free tutorials and sometimes scene files
-* [Poly Haven](https://polyhaven.com/) - Free textures and Models!
-* [Turbo Squid](https://turbosquid.com/) - Free textures and Models!
-* [CG Trader](https://cgtrader.com/) - Free textures and Models!
-* [Sketch Fab](https://sketchfab.com/) - Free textures and Models!
-* [Free3D](https://free3d.com/) - Free textures and Models!
-* [ArtStation](https://www.artstation.com/marketplace/game-dev/resources/3d-models) - Some free Textures and Models ($$)
-* [Kitbash 3D](https://kitbash3d.com/) - High Quality Models and Textures ($$$)
