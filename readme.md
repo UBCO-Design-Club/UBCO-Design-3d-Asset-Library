@@ -39,7 +39,7 @@ Importing models is also a rudimentary task, but you first have to change some p
 
 ![import2](./images/import2.PNG)
 
-![import](./images/import.PNG)
+![import](./images/import.png)
 
 ## Help
 
