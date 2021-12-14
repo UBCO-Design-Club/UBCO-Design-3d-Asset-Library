@@ -34,11 +34,13 @@ Then, you can just navigate to the place where you want to get the image from!
 
 ![nav](./images/nav.PNG)
 
-**Secret Tip**: Click and drag an image from your file machines file explorer into the Node Editor Area... Poof! It appears! Same goes for .mp4! To load image sequence in any of the supported image file formats, the filename of the images must contain a digit to indicate the frame order (e.g. 0001.jpg, 0002.jpg, 0003.jpg, etc, of any image format), indicating the frame. To make sure the video or image sequence shows up correctly, unwrap your mesh by pressing TAB -> U -> "Unwrap". This can be adjusted in the UV Editor using the same controls as the mesh edit tools (G for move, C and B Select, R -> X or Y Rotate - Axis)
+**Secret Tip**: Click and drag an image from your file machines file explorer into the Node Editor Area... Poof! It appears! Same goes for .mp4! To load image sequence in any of the supported image file formats, the filename of the images must contain a digit to indicate the frame order (e.g. 0001.jpg, 0002.jpg, 0003.jpg, etc, of any image format), indicating the frame. To make sure the video or image sequence shows up correctly, unwrap your mesh by pressing TAB -> U -> "Unwrap". Use projection for certain shapes. This can be adjusted in the UV Editor using the same controls as the mesh edit tools (G for move, C and B Select, R -> X or Y Rotate - Axis).
+
+To convert gif's to .mp4, use: [CloudConvert](https://cloudconvert.com/gif-to-mp4)
 
 ![nav2](./images/nav2.PNG)
 
-![nav2](./images/nav3.PNG)
+![nav3](./images/nav3.PNG)
 
 Same goes for text! there is a 'Text Tester' blend file that you can use to test your fonts in 3d. Navigate to the 'a'
 symbol in the properties pane and under fonts you can find your sizes and styling. Use extrude under geometry to give it some depth!
@@ -57,8 +59,7 @@ Importing models is also a rudimentary task, but you first have to change some p
 
 ## Important Resources
 
-Here are some other amazing resources to get started in 3d! Make sure to check out the resources under Access, They are undoubtedly the best quality. 
-Some sites may require sign-up to download files.
+Here are some other amazing resources to get started in 3d! Make sure to check out the resources under Access, They are undoubtedly the best quality. Some sites may require sign-up to download files. 
 
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Amazing free tutorials and sometimes scene files
 * [Turbo Squid](https://turbosquid.com/) - Free textures and Models!
