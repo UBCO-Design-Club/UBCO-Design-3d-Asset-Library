@@ -40,7 +40,7 @@ To convert gif's to .mp4, use: [CloudConvert](https://cloudconvert.com/gif-to-mp
 
 ![nav2](./images/nav2.PNG)
 
-![nav3](./images/nav3.png)
+![nav3](./images/nav3.jpg)
 
 Same goes for text! there is a 'Text Tester' blend file that you can use to test your fonts in 3d. Navigate to the 'a'
 symbol in the properties pane and under fonts you can find your sizes and styling. Use extrude under geometry to give it some depth!
