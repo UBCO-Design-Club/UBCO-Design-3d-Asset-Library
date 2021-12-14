@@ -5,7 +5,7 @@
 
 ## Description
 
-Welcome to the UBCO Visual Design Club's 3d Asset Library. Feel free to look around and download what you like! All materials are listed by type within the Google Drive link - Scenes, Textures, Models, and Fonts. Jump right into a scene and start playing around, or start a fresh Blender file and import models, append materials from another blend file, or just grab certain images for image textures! Because of the size limitations that both Google and Github have this Library is a conglomerate of many free use resources and my own personal collection of scenes, fonts, models, and textures. This library is about collaboration, so let me know if you have assets of your own that you would like to include!
+Welcome to the UBCO Visual Design Club's 3d Asset Library. Feel free to look around and download what you like! All materials are listed by type within the Google Drive link - Scenes, Textures, Models, and Fonts. Jump right into a scene and start playing around, or start a fresh Blender file and import models, append materials from another blend file, or just grab certain images for image textures! Due to the size limitations that both Google and Github have, this Library is a conglomerate of many free use resources and my own personal collection of scenes, fonts, models, and textures. This library is about collaboration, so let me know if you have assets of your own that you would like to include!
 
 ## Installing
 
