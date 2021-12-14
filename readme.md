@@ -42,6 +42,8 @@ To convert gif's to .mp4, use: [CloudConvert](https://cloudconvert.com/gif-to-mp
 
 ![nav3](./images/nav3.jpg)
 
+Use A, C, or B to select verticies or faces, and use the timeline at the bottom to press play, and see the movie texture play in the UV Editor! The movie texture will not be visible in the rendered viewport, so you'll have to go to Render -> Image or Animation (top left of the window) to see a frame or the movie respectively. **Tip**: Use Eevee to render movie textures quickly. The output of the image or animation can be changed in the left side properties pane, under Output Properties -> Output -> File Format. Left is images, right side is movie (recommended: .png for images, FFmpeg video for animations)
+
 Same goes for text! there is a 'Text Tester' blend file that you can use to test your fonts in 3d. Navigate to the 'a'
 symbol in the properties pane and under fonts you can find your sizes and styling. Use extrude under geometry to give it some depth!
 
