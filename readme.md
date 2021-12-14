@@ -34,7 +34,7 @@ Then, you can just navigate to the place where you want to get the image from!
 
 ![nav](./images/nav.PNG)
 
-**Secret Tip**: Click and drag an image from your file machines file explorer into the Node Editor Area... Poof! It appears! Same goes for .mp4! To load image sequence in any of the supported image file formats, the filename of the images must contain a digit to indicate the frame order (e.g. 0001.jpg, 0002.jpg, 0003.jpg, etc, of any image format), indicating the frame.
+**Secret Tip**: Click and drag an image from your file machines file explorer into the Node Editor Area... Poof! It appears! Same goes for .mp4! To load image sequence in any of the supported image file formats, the filename of the images must contain a digit to indicate the frame order (e.g. 0001.jpg, 0002.jpg, 0003.jpg, etc, of any image format), indicating the frame. To make sure the video or image sequence shows up correctly, unwrap your mesh by pressing TAB -> U -> "Unwrap". This can be adjusted in the UV Editor using the same controls as the mesh edit tools (G for move, C and B Select, R -> X or Y Rotate - Axis)
 
 ![nav2](./images/nav2.PNG)
 
