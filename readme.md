@@ -30,9 +30,11 @@ Grab some of the best assets that are free-use from these links:
 
 Make sure to download all files associated with a particular blend file. It will contain textures that can be 
 re-assigned to the proper inputs by clicking the folder icon on the image texture node within the shader node editor. 
-Then, you can just navigate to the place where you want to get the image from!
+Then, you can just navigate to the place where you want to get the image from! **Secret Tip**: Click and drag an image from your file machines file explorer into the Node Editor Area... Poof! It appears! Shh... same goes for .gif's & .mov or .mp4
 
 ![nav](./images/nav.PNG)
+
+![nav2](./images/nav2.PNG)
 
 Same goes for text! there is a 'Text Tester' blend file that you can use to test your fonts in 3d. Navigate to the 'a'
 symbol in the properties pane and under fonts you can find your sizes and styling. Use extrude under geometry to give it some depth!
