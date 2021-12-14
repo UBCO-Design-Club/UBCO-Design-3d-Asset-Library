@@ -51,8 +51,8 @@ Importing models is also a rudimentary task, but you first have to change some p
 
 ## Important Resources
 
-Here are some amazing resources to get started in 3d! Make sure to check out Poly Haven. They have many detailed
-models and 4k textures. Some sites may require sign-up to download files.
+Here are some other amazing resources to get started in 3d! Make sure to check out the resources under Access, They are undoubtedly the best quality. 
+Some sites may require sign-up to download files.
 
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Amazing free tutorials and sometimes scene files
 * [Turbo Squid](https://turbosquid.com/) - Free textures and Models!
