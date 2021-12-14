@@ -5,7 +5,8 @@
 
 ## Description
 
-Welcome to the UBCO Visual Design Club's 3d Asset Library. Feel free to look around and download what you like! All materials are listed by type within the Google Drive link - Scenes, Textures, and Models. Jump right into a scene and start playing around, or start a fresh Blender file and import models, append materials from another blend file, or just grab certain images for image textures!
+Welcome to the UBCO Visual Design Club's 3d Asset Library. Feel free to look around and download what you like! All materials are listed by type within the Google Drive link - Scenes, Textures, and Models. Jump right into a scene and start playing around, or start a fresh Blender file and import models, append materials from another blend file, or just grab certain images for image textures! Because of the size limitations that both Google and Github have this Library is a conglomerate of many free use resources and my own personal collection of scenes, fonts, models, and textures. This library is about collaboration, so let me know
+if you have assets of your own that you would like to include!
 
 ## Installing
 
@@ -17,8 +18,14 @@ Follow this link to dive into the library!
 
 [VDC Asset Library](https://drive.google.com/drive/folders/1CVm3VxPlxeokrd2tcaQtigDPNhVr45e-?usp=sharing)
 
-Just simply navigate through the G-Drive folders, choose a file and then hit 'download'! Not sure where you want to start?
+To start, just simply navigate through the G-Drive folders, choose a file and then hit 'download'! Not sure where you want to start?
 Download the texttester.blend and imagetesterandmirrorbox.blend files from the Scenes folder and keep reading.
+
+Grab some of the best assets that are free-use from these links:
+
+* [Poly Haven](https://polyhaven.com/) - Best Quality Free Textures and Models!
+* [DaFont](https://www.dafont.com/) - Wide Selection of Free Fonts that look even better in 3D.
+* [Unsplash](https://unsplash.com/) - Great Textures, Inspiriation, and Reference Images
 
 ## Getting Started
 
@@ -48,7 +55,6 @@ Importing models is also a rudimentary task, but you first have to change some p
 Here are some amazing resources to get started in 3d! Make sure to check out Poly Haven. They have many detailed
 models and 4k textures. Some sites may require sign-up to download files.
 
-* [Poly Haven](https://polyhaven.com/) - Best Quality free textures and models!
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) - Amazing free tutorials and sometimes scene files
 * [Turbo Squid](https://turbosquid.com/) - Free textures and Models!
 * [CG Trader](https://cgtrader.com/) - Free textures and Models!
@@ -69,7 +75,7 @@ Nathan Potter
 ## Version History
 
 * 0.1
-    * Initial Release - Simple Library; Models, Scenes and Textures
+    * Initial Release - Simple Library; Models, Scenes, Textures, Fonts
 
 ## License
 
