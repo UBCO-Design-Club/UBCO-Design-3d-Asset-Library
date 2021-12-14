@@ -15,7 +15,7 @@ Welcome to the UBCO Visual Design Club's 3d Asset Library. Feel free to look aro
 
 Follow this link to dive into the library!
 
-[VDC Asset Library](https://drive.google.com/drive/folders/1CVm3VxPlxeokrd2tcaQtigDPNhVr45e-?usp=sharing)
+[VDC Asset Library](https://drive.google.com/drive/folders/1k_Eq-wHoR0l03_CvABPTkshsJLUXPZh7?usp=sharing)
 
 To start, just simply navigate through the G-Drive folders, choose a file and then hit 'download'! Not sure where you want to start?
 Download the texttester.blend and imagetesterandmirrorbox.blend files from the Scenes folder and keep reading.
