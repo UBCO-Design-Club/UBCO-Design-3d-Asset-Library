@@ -53,7 +53,7 @@ Appending materials is very easy. It is basically just a copy of a material from
 
 [Appending Materials](https://www.youtube.com/watch?v=6Ffnoyg6oc8)
 
-Importing models is also a rudimentary task, but you first have to change some preferences to allow you to import certain file types. Select Edit > Preferences (Edit is next to File (top left)). Choose Add-ons from the left menu, and search 'import-export'. Make sure the boxes are checked, then you can import the models you want!
+Importing models is also a rudimentary task, but you first have to change some preferences to allow you to import certain file types. Select Edit > Preferences (Edit is next to File (top left)). Choose Add-ons from the left menu, and search 'import-export'. Make sure the boxes are checked, then you can import the models you want! **Secret Tip**: if you already have another blend file open that you want to take models from, you can select that object and press Ctrl-C to copy it. Click anywhere in your new scenes viewport and hit Ctrl-V. Pasted! The object and its material will now be in that new file.
 
 ![import2](./images/import2.PNG)
 
